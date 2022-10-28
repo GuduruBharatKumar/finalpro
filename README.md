@@ -26,7 +26,7 @@ Static Web App URL : https://orange-bush-07c571410.2.azurestaticapps.net/
 
 App Services URL : https://foodieswebsite.azurewebsites.net/
 
-##  My Website Link:https://calm-grass-0907a3610.1.azurestaticapps.net/
+##  My Website Link: https://orange-bush-07c571410.2.azurestaticapps.net/
 
 ## Homepage
 ![Screenshot 2022-10-06 085001](https://user-images.githubusercontent.com/111065540/194206667-2aecb37e-8f9f-4702-ad67-344a7021efe7.jpg)
