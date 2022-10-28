@@ -20,9 +20,7 @@ Problem Statement/Opportunity : Every One Good Health Could Depend Upon Quality 
 
 Project Description : Best Food Quality Is Important To Us Every One Good Health Could Depend Upon Quality Of Food Taken.
 
-Primary Azure Technology : Azure Bot Service, Web, Static Web Apps
-
-Other Azure Technologies : App Service
+Primary Azure Technology : Static Web Apps, App Service
 
 ##  My Website Link:https://calm-grass-0907a3610.1.azurestaticapps.net/
 
