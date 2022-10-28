@@ -46,10 +46,9 @@ App Services URL : https://foodieswebsite.azurewebsites.net/
 ## Contact US
 ![Screenshot 2022-10-06 085445](https://user-images.githubusercontent.com/111065540/194207217-d4a33b03-3351-4087-b7bc-2a35bd42e194.jpg)
 
-## Azure Services Used
-## Static Web App
-![Screenshot 2022-10-28 195906](https://user-images.githubusercontent.com/111065540/198646312-7bec2f89-9d46-433c-a09d-22997a03a61b.jpg)
-## App Services
-![Screenshot 2022-10-28 195828](https://user-images.githubusercontent.com/111065540/198646491-77ecca44-8dcb-40b8-bc36-ca3f5eaef1bd.jpg)
+## Azure Services 
+![Screenshot 2022-10-28 204441](https://user-images.githubusercontent.com/111065540/198673984-be9c5328-7f3c-4b7a-b16b-9f53c3083451.jpg)
+
+
 
 
