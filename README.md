@@ -5,6 +5,25 @@ Description:
 2.It can be raw, processed or formulated and is consumed orally by animals for growth, health or pleasure.
 3.Food is mainly composed of water, lipids, proteins and carbohydrates.
 
+
+Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
+
+Web Technologies used: HTML, CSS, JS.
+
+IDE: VS-Code
+
+Industry : Lifestyle
+
+Project Title : Foodie
+
+Problem Statement/Opportunity : Every One Good Health Could Depend Upon Quality Of Food Taken.
+
+Project Description : Best Food Quality Is Important To Us Every One Good Health Could Depend Upon Quality Of Food Taken.
+
+Primary Azure Technology : Azure Bot Service, Web, Static Web Apps
+
+Other Azure Technologies : App Service
+
 ##  My Website Link:https://calm-grass-0907a3610.1.azurestaticapps.net/
 
 ## Homepage
