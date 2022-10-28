@@ -22,6 +22,10 @@ Project Description : Best Food Quality Is Important To Us Every One Good Health
 
 Primary Azure Technology : Static Web Apps, App Service
 
+Static Web App URL : https://orange-bush-07c571410.2.azurestaticapps.net/
+
+App Services URL : https://foodieswebsite.azurewebsites.net/
+
 ##  My Website Link:https://calm-grass-0907a3610.1.azurestaticapps.net/
 
 ## Homepage
@@ -41,3 +45,11 @@ Primary Azure Technology : Static Web Apps, App Service
 
 ## Contact US
 ![Screenshot 2022-10-06 085445](https://user-images.githubusercontent.com/111065540/194207217-d4a33b03-3351-4087-b7bc-2a35bd42e194.jpg)
+
+## Azure Services Used
+## Static Web App
+![Screenshot 2022-10-28 195906](https://user-images.githubusercontent.com/111065540/198646312-7bec2f89-9d46-433c-a09d-22997a03a61b.jpg)
+## App Services
+![Screenshot 2022-10-28 195828](https://user-images.githubusercontent.com/111065540/198646491-77ecca44-8dcb-40b8-bc36-ca3f5eaef1bd.jpg)
+
+
