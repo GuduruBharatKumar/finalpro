@@ -26,6 +26,9 @@ Static Web App URL : https://orange-bush-07c571410.2.azurestaticapps.net/
 
 App Services URL : https://foodieswebsite.azurewebsites.net/
 
+
+## Project Demo URL : http://gudurubharatkumar.me/finalpro/
+
 ##  My Website Link: https://orange-bush-07c571410.2.azurestaticapps.net/
 
 ## Homepage
