@@ -56,3 +56,5 @@ App Services URL : https://foodieswebsite.azurewebsites.net/
 
 
 Nice!!!
+
+LETSGO
