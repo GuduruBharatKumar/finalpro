@@ -52,10 +52,3 @@ App Services URL : https://foodieswebsite.azurewebsites.net/
 
 ## Azure Services 
 ![Screenshot 2022-10-28 204441](https://user-images.githubusercontent.com/111065540/198673984-be9c5328-7f3c-4b7a-b16b-9f53c3083451.jpg)
-
-
-
-
-Nice!!!
-
-LETSGO
